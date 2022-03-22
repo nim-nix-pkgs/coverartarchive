@@ -9,7 +9,7 @@
   
   inputs.src-coverartarchive-master.flake = false;
   inputs.src-coverartarchive-master.owner = "achesak";
-  inputs.src-coverartarchive-master.ref   = "refs/heads/master";
+  inputs.src-coverartarchive-master.ref   = "master";
   inputs.src-coverartarchive-master.repo  = "nim-coverartarchive";
   inputs.src-coverartarchive-master.type  = "github";
   

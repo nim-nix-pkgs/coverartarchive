@@ -11,6 +11,7 @@
   inputs.src-coverartarchive-master.ref   = "refs/heads/master";
   inputs.src-coverartarchive-master.owner = "achesak";
   inputs.src-coverartarchive-master.repo  = "nim-coverartarchive";
+  inputs.src-coverartarchive-master.dir   = "";
   inputs.src-coverartarchive-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -7,14 +7,6 @@
   inputs.flakeNimbleLib.type  = "github";
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
-  inputs."coverartarchive-master".dir   = "master";
-  inputs."coverartarchive-master".owner = "nim-nix-pkgs";
-  inputs."coverartarchive-master".ref   = "master";
-  inputs."coverartarchive-master".repo  = "coverartarchive";
-  inputs."coverartarchive-master".type  = "github";
-  inputs."coverartarchive-master".inputs.nixpkgs.follows = "nixpkgs";
-  inputs."coverartarchive-master".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
-  
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@inputs:
   let 
     lib  = flakeNimbleLib.lib;

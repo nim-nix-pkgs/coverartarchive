@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031814,
-        "narHash": "sha256-nDcxP5+YNysrqjTKoDw9KImFNtUXvwr6G6Beu3gcgKM=",
+        "lastModified": 1658201334,
+        "narHash": "sha256-hE1+k6ZOTEA0uLL9Zz73SkWCGowaM+ncvIzLYn1xY/A=",
         "owner": "nim-nix-pkgs",
         "repo": "coverartarchive",
-        "rev": "f157fad240dcbbffff461f9b9bf58c6f1e3ff563",
+        "rev": "403908a12f24710b08b5837a331964db4d545980",
         "type": "github"
       },
       "original": {

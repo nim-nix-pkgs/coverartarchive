@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1660781875,
-        "narHash": "sha256-j5BaAORlPXWmMbmvthLtXCOjdHIUizxuAg6b+ebPWC8=",
+        "lastModified": 1661565372,
+        "narHash": "sha256-8cjaL1bFpm0d0SEJbIY8RodBNMsCz9U29916B2b/0xI=",
         "owner": "nim-nix-pkgs",
         "repo": "coverartarchive",
-        "rev": "440cc876dd51989a1bfd4009764778fc3c79a724",
+        "rev": "b3fd3c7a6bc1b30a401f397e7fc4eeb44447e057",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
